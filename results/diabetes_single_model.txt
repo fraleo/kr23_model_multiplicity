@@ -1,0 +1,1 @@
+Algorithm: proto. Number of models: 1. Number of valid cfx: 50/50. Avg l1 distance from input: 0.7728330400995757. Average LOF score: 0.68.

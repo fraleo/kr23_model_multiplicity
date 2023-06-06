@@ -1,0 +1,8 @@
+Algorithm: proto. Number of models: 2. Number of valid cfx: 11/100. Avg l1 distance from input: 0.3206809229156413. Average LOF score: 1.0.
+Algorithm: proto. Number of models: 3. Number of valid cfx: 0/150. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: proto. Number of models: 4. Number of valid cfx: 0/200. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: proto. Number of models: 5. Number of valid cfx: 0/250. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: wachter. Number of models: 2. Number of valid cfx: 0/100. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: wachter. Number of models: 3. Number of valid cfx: 0/150. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: wachter. Number of models: 4. Number of valid cfx: 0/200. Avg l1 distance from input: nan. Average LOF score: nan.
+Algorithm: wachter. Number of models: 5. Number of valid cfx: 0/250. Avg l1 distance from input: nan. Average LOF score: nan.

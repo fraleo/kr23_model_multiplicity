@@ -42,9 +42,9 @@ Models will be trained and saved in "../models/german/". Then, explanations for 
 
 ## Authors
 
-[Francesco Leofante](https://fraleo.github.io)
-Elena Botoeva
-Vineet Rajani
+[Francesco Leofante](https://fraleo.github.io),
+[Elena Botoeva](https://www.kent.ac.uk/computing/people/3838/botoeva-elena),
+[Vineet Rajani](https://vineetrajani.github.io/)
 
 Do not hesitate to contact us if you have problems using this code, or if you find bugs :)
 
