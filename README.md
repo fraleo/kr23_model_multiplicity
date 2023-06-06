@@ -49,18 +49,16 @@ Models will be trained and saved in "../models/german/". Then, explanations for 
 Do not hesitate to contact us if you have problems using this code, or if you find bugs :)
 
 
-## Citing OMTPlan
+## Citing this work
 
 If you decide to use this code for your experiments, please cite
 
-	@inproceedings{LeofanteBotoevaRajani23,
+```
+@inproceedings{LeofanteBotoevaRajani23,
   author       = {Francesco Leofante and Elena Botoeva and Vineet Rajani},
-
   title        = {Counterfactual Explanations and Model Multiplicity: a Relational Verification View},
-  booktitle    = {Proceedings of the 20th International Conference on Principles of
-                  Knowledge Representation and Reasoning, {KR} 2023, Rhodes, Greece.
-                  September 02 - 08, 2023},
+  booktitle    = {Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning, {KR} 2023, Rhodes, Greece. September 02 - 08, 2023},
   year         = {2023}
   }
-
+```
 
