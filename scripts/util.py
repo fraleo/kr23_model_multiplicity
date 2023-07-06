@@ -45,7 +45,8 @@ class Dataset:
         else:
             return x_train, y_train, x_test, y_test 
 
-    def min_max_scale(self, df, continuous, min_vals=None, max_vals=None):
+    @staticmethod
+    def min_max_scale(df, continuous, min_vals=None, max_vals=None):
         df_copy = copy.copy(df)
         for i, name in enumerate(continuous):
             if min_vals is None:
@@ -137,7 +138,7 @@ class Stats:
         # reshape otherwise model complains
         # x = np.squeeze(x)
         # cfx = np.squeeze(cfx['X'])
-        return not(np.argmax(model.predict(x), axis=1)[0] == np.argmax(model.predict(cfx), axis=1)[0])
+        return not(np.argmax(model.predict(x, verbose=0), axis=1)[0] == np.argmax(model.predict(cfx, verbose=0), axis=1)[0])
 
     def _check_validity_all(self, x, cfx):
         # Check if cfx is valid for all models
